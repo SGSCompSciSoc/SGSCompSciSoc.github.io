@@ -1,1 +1,0 @@
-Start of the Computer Science Society Website
